@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Prashant Founder of kustbots</h1>
+<h1 align="center">Hi 👋, I'm Prashant — Founder of KustBots</h1>
 <h3 align="center">A 17-year-old gamer, full-stack developer & automation expert from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Passionate+about+code+%F0%9F%92%BB;Loves+automation+and+AI+%E2%9C%A8;Building+cool+stuff+24%2F7+%F0%9F%9A%80;Let's+connect+and+create+magic+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp3ZmRhcTk4c3Z1ZXU1Z3JxNWFwZ3ByNmY5NXY5Y3NnZTBjZ3k5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rVNcIYIxIuAeK/giphy.gif" width="280" alt="anime coder" />
 </p>
 
 ---
