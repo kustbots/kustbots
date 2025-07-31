@@ -84,13 +84,6 @@
 
 ---
 
-## ✨ Anime Coder Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0GqeSlGSRQut4R0U/giphy.gif" width="240" alt="anime typing">
-  <img src="https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif" width="240" alt="anime coding">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" alt="hacker gif">
-</p>
 
 ---
 
