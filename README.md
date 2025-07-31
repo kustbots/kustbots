@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWp3ZmRhcTk4c3Z1ZXU1Z3JxNWFwZ3ByNmY5NXY5Y3NnZTBjZ3k5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rVNcIYIxIuAeK/giphy.gif" width="280" alt="anime coder" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="anime coder" />
 </p>
 
 ---
