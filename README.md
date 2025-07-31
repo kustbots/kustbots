@@ -10,9 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-  <tr>
-    <td>
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="anime coder" />
 
 - 🧠 Self-taught dev & open-source contributor  
 - 🌎 Based in India  
@@ -22,12 +20,8 @@
 - 🛠️ Currently building a mobile FPS in Unreal Engine 5  
 - 🌐 Also working on a Raspberry Pi cluster, AI scrapers & distributed infra  
 
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="anime coder" />
-</td>
-  </tr>
-</table>
+---
+
 
 
 ## 🛠️ Tech Stack & Tools
