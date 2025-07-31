@@ -5,13 +5,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Passionate+about+code+%F0%9F%92%BB;Loves+automation+and+AI+%E2%9C%A8;Building+cool+stuff+24%2F7+%F0%9F%9A%80;Let's+connect+and+create+magic+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="anime coder" />
-</p>
 
 ---
 
 ## 🧑‍💻 About Me
+
+<table>
+  <tr>
+    <td>
 
 - 🧠 Self-taught dev & open-source contributor  
 - 🌎 Based in India  
@@ -21,7 +22,13 @@
 - 🛠️ Currently building a mobile FPS in Unreal Engine 5  
 - 🌐 Also working on a Raspberry Pi cluster, AI scrapers & distributed infra  
 
----
+</td>
+<td align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="anime coder" />
+</td>
+  </tr>
+</table>
+
 
 ## 🛠️ Tech Stack & Tools
 
