@@ -83,7 +83,6 @@
 
 <p align="center">
   <a href="https://t.me/KustDev"><img src="https://img.shields.io/badge/Telegram-%40KustDev-2CA5E0?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:kustbots@gmail.com"><img src="https://img.shields.io/badge/Gmail-kustbots%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/kustbots"><img src="https://img.shields.io/badge/GitHub-kustbots-black?style=for-the-badge&logo=github" /></a>
 </p>
 
