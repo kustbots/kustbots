@@ -1,95 +1,117 @@
-# 👋 Hi there, I’m Kustbots
+<h1 align="center">Hi 👋, I'm Kustbots</h1>
+<h3 align="center">A 17-year-old gamer, full-stack developer & automation expert from India 🇮🇳</h3>
 
-*[Insert an animated GIF banner here — for example: moving logos or a code‑typing banner]*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Passionate+about+code+%F0%9F%92%BB;Loves+automation+and+AI+%E2%9C%A8;Building+cool+stuff+24%2F7+%F0%9F%9A%80;Let's+connect+and+create+magic+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
-- Passionate software engineer & open-source enthusiast  
-- Based in India  
-- My interests: AI 🔍, robotics 🤖, automation, and full-stack development  
-- Lover of clean code and sleek animations  
+
+- 🧠 Self-taught dev & open-source contributor  
+- 🌎 Based in India  
+- 🎮 Hardcore gamer & systems hacker  
+- ⚙️ Creator of [Frozen Music](https://frozenmusic.vercel.app), a lightning-fast Telegram VC bot  
+- 💡 Obsessively focused on optimization, performance & clean code  
+- 🛠️ Currently building a mobile FPS game in Unreal Engine 5  
+- 🌐 Also working on a Raspberry Pi cluster, AI content scrapers, and real-time caching systems  
 
 ---
 
-## 🔧 Languages & Tools
-![Python](https://img.shields.io/badge/-Python-FFE873?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=node.js)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-… *Add more custom or animated badges*  
-(SVG badges can be animated via shields.io or GIF overlays — inspired by "Cool GIFs for GitHub" project) :contentReference[oaicite:2]{index=2}
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,nextjs,html,css,tailwind,flask,git,github,linux,bash,vscode,vercel,cloudflare" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-[![Kustbots GitHub Stats](https://github-readme-stats.vercel.app/api?username=kustbots&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kustbots&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
-*Dynamically generated stats cards with theme support* :contentReference[oaicite:3]{index=3}
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kustbots&show_icons=true&theme=radical&hide=stars" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustbots&layout=donut&theme=radical" height="150" />
+</p>
 
 ---
 
-## 📈 Contribution Streak
+## 🔥 Contribution Streak
 
-![Kustbots Streak](https://streak-stats.demolab.com?user=kustbots&theme=dark) 
-*Keeps visitors updated on your continuous contributions* :contentReference[oaicite:4]{index=4}
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kustbots&theme=dark&hide_border=false" alt="streak-stats" />
+</p>
 
 ---
 
-## 🚀 Projects Highlights
+## 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| **AwesomeBot** | 🤖 A modular chatbot with NLP and voice assistants |
-| **DataDash** | 📊 Interactive data visualizations using D3.js |
-| **AutoDeploy** | 🚀 CI/CD automation for fast deployments |
-… Add more pinned/highlighted repos with badges, animated GIF previews, or image thumbnails  
+| 🔧 Project | 🌟 Description |
+|-----------|----------------|
+| [Frozen Music](https://github.com/kustbots/frozenvcmusicbot) | 🎵 A modular Telegram VC music bot optimized for performance |
+| Audio/Video API | 🎧 YouTube audio/video downloader with Spotify support |
+| ClusterPi | 🔌 Raspberry Pi-based private cloud & stream router |
+| UnrealFPS | 🕹️ Tactical shooter for Android built in UE5 |
+| KustBots Infra | 🌐 Distributed architecture with fallback nodes & multi-level caching |
 
 ---
 
 ## ✨ Achievements
 
-- 🏆 GitHub Star Contributor  
-- 💬 Featured in open‑source projects  
-- 📚 Regular contributor to Dev.to / Medium (link with dynamic feed, see below)  
+- 🥇 Created an AI-powered system indexing 150M+ media files from trending platforms  
+- 🧊 Designed a distributed music system running 30+ nodes & bots in parallel  
+- 📈 Building a brand (Kust Bots) across platforms with reliability & speed as priority  
+- 🧠 Self-hosted ML pipeline for real-time content tagging and search  
 
 ---
 
-## 🔄 What's New
+## 🎵 Now Playing
 
-- 🎯 Latest blog posts from Medium / Dev.to updated via GitHub Action  
-- 🎵 Now Playing widget (Spotify integration) or similar live‑update card  
-*(Integrate via RSS/GitHub‑Action to pull live updates)* :contentReference[oaicite:5]{index=5}
-
----
-
-## 💬 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn‐Connect-blue?logo=linkedin)](https://www.linkedin.com/in/YOURPROFILE)  
-[![Twitter](https://img.shields.io/badge/Twitter‐@yourhandle-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)  
-[![Dev.to](https://img.shields.io/badge/Dev.to-Read-blue?logo=dev.to)](https://dev.to/yourhandle)  
+<!-- Spotify or YouTube Now Playing Widget -->
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jjabmjvskhnoaytq2tuhxgakxm&width=500" alt="Now playing" />
+</p>
 
 ---
 
-## 🌙 Theme-aware Design
-I've implemented **light/dark mode responsive SVGs** so badges adapt to your viewers’ GitHub theme settings. :contentReference[oaicite:6]{index=6}
+## 🧩 Fun Stuff
+
+<details>
+  <summary>🌍 My Command Center</summary>
+  <ul>
+    <li>👾 PC: i5-12400F | RTX 3080 Ti | Linux & WSL2</li>
+    <li>🧠 Cluster: 35 Raspberry Pis + Flask/Redis stack</li>
+    <li>🛰️ CDN: Cloudflare Workers + Vercel + Render</li>
+    <li>⚙️ GitHub Actions for self-updating bots</li>
+    <li>🔐 Ethical hacker & backend debugger</li>
+  </ul>
+</details>
 
 ---
 
-### How to bring this to life:
+## 📬 Contact Me
 
-1. Create a repo named `kustbots/kustbots` (public), so GitHub treats it as your special profile README. :contentReference[oaicite:7]{index=7}  
-2. Add `README.md` containing the above content.  
-3. Use tools like:
-   - **GitHub Readme Stats** for dynamic stats cards :contentReference[oaicite:8]{index=8}  
-   - **GitHub Streak Stats** for streak widgets :contentReference[oaicite:9]{index=9}  
-   - **Cool-GIFs‑For‑GitHub** library for animated logos / icons :contentReference[oaicite:10]{index=10}  
-   - Custom **SVG typing banners** (e.g., Readme‑Typing‑SVG) for dynamic text animation :contentReference[oaicite:11]{index=11}  
-4. Set up GitHub Action workflows to auto-update blog posts, contributions, etc.  
-5. Preview and fine-tune styling (fonts, badges, colors).
+<p align="center">
+  <a href="https://t.me/KustDev"><img src="https://img.shields.io/badge/Telegram-%40KustDev-2CA5E0?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:kustbots@gmail.com"><img src="https://img.shields.io/badge/Gmail-kustbots%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/kustbots"><img src="https://img.shields.io/badge/GitHub-kustbots-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-This gives you a *modern, interactive, and animated* README that’s truly unique to your style. Want help customizing badges, picking GIF assets, or setting up actions? Just say the word!
-::contentReference[oaicite:12]{index=12}
+## 🌙 Theme-Aware SVGs
+
+This README uses SVGs, badges, and banners that respect **light/dark mode**, and supports full responsiveness across devices.
+
+---
+
+## 📌 Bonus: GitHub Trophy Wall
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kustbots&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+> 🔄 This README updates automatically using GitHub Actions. Want a similar profile? Fork this and go wild!
+
