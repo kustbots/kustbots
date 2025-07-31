@@ -12,7 +12,7 @@
 - 🧠 Self-taught dev & open-source contributor  
 - 🌎 Based in India  
 - 🎮 Hardcore gamer & systems hacker  
-- ⚙️ Creator of [Frozen Music](https://frozenmusic.vercel.app), a lightning-fast Telegram VC bot  
+- ⚙️ Creator of [Frozen Music](https://t.me/vcmusiclubot?start=true), a lightning-fast Telegram VC bot  
 - 💡 Obsessively focused on optimization, performance & clean code  
 - 🛠️ Currently building a mobile FPS game in Unreal Engine 5  
 - 🌐 Also working on a Raspberry Pi cluster, AI content scrapers, and real-time caching systems  
