@@ -6,10 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kustbots&label=Profile%20views&color=0e75b6&style=flat" alt="kustbots" />
-  <img src="https://img.shields.io/github/followers/kustbots?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/kustbots?label=Stars&style=flat&color=0e75b6" alt="GitHub Stars" />
+  <img src="https://count.getloli.com/get/@kustbots?theme=moebooru" alt="kustbots profile views" />
 </p>
+
 
 ---
 
