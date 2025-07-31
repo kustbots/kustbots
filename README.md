@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kustbots</h1>
+<h1 align="center">Hi 👋, I'm Prashant Founder of kustbots</h1>
 <h3 align="center">A 17-year-old gamer, full-stack developer & automation expert from India 🇮🇳</h3>
 
 <p align="center">
