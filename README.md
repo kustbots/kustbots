@@ -32,7 +32,7 @@
 
 ## 📈 Contribution Streak
 
-![Kustbots Streak](https://github-readme-streak-stats.herokuapp.com/?user=kustbots&theme=dark)  
+![Kustbots Streak](https://streak-stats.demolab.com?user=kustbots&theme=dark) 
 *Keeps visitors updated on your continuous contributions* :contentReference[oaicite:4]{index=4}
 
 ---
