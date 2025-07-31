@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@kustbots?theme=moebooru" alt="kustbots profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kustbots&label=Profile%20Views&color=F7971E&style=for-the-badge" alt="Profile Views" />
 </p>
-
 
 ---
 
