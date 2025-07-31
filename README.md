@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kustbots</h1>
-<h3 align="center">A 17-year-old gamer, full-stack developer & automation expert from India 🇮🇳</h3>
+<h3 align="center">A 17‑year‑old gamer, full‑stack dev & automation expert from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Passionate+about+code+%F0%9F%92%BB;Loves+automation+and+AI+%E2%9C%A8;Building+cool+stuff+24%2F7+%F0%9F%9A%80;Let's+connect+and+create+magic+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT4uQulxzV39haRFjG/giphy.gif" alt="Hacker Banner" width="600"/>
 </p>
 
 ---
@@ -10,19 +14,16 @@
 ## 🧑‍💻 About Me
 
 - 🧠 Self-taught dev & open-source contributor  
-- 🌎 Based in India  
-- 🎮 Hardcore gamer & systems hacker  
-- ⚙️ Creator of [Frozen Music](https://t.me/vcmusiclubot?start=true), a lightning-fast Telegram VC bot  
-- 💡 Obsessively focused on optimization, performance & clean code  
-- 🛠️ Currently building a mobile FPS game in Unreal Engine 5  
-- 🌐 Also working on a Raspberry Pi cluster, AI content scrapers, and real-time caching systems  
+- 🎮 Gamer & systems hacker  
+- ⚙️ Built [Frozen Music](https://t.me/vcmusiclubot?start=true), a performance-first Telegram VC bot  
+- 🛠️ Building a mobile FPS in Unreal Engine 5 + Raspberry Pi cluster + AI scrapers + caching systems  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,nextjs,html,css,tailwind,flask,git,github,linux,bash,vscode,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,nextjs,html,css,tailwind,flask,git,github,linux,bash,vscode,vercel,cloudflare,cpp,docker,redis,kubernetes" />
 </p>
 
 ---
@@ -36,46 +37,57 @@
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kustbots&theme=radical" alt="Activity Graph" />
+  ![GitHub Snake](https://raw.githubusercontent.com/kustbots/kustbots/output/github-contribution-grid-snake-dark.svg)
 </p>
+
+*(Bonus: include the Platane snake workflow in your repo to auto-generate this every day)* :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 🚀 Featured Projects
 
 | 🔧 Project | 🌟 Description |
-|-----------|----------------|
-| [Frozen Music](https://github.com/kustbots/frozenvcmusicbot) | 🎵 A modular Telegram VC music bot optimized for performance |
-| Audio/Video API | 🎧 YouTube audio/video downloader with Spotify support |
-| ClusterPi | 🔌 Raspberry Pi-based private cloud & stream router |
-| UnrealFPS | 🕹️ Tactical shooter for Android built in UE5 |
-| KustBots Infra | 🌐 Distributed architecture with fallback nodes & multi-level caching |
+|----------|----------------|
+| [Frozen Music](https://github.com/kustbots/frozenvcmusicbot) | 🎵 Telegram VC music bot optimized for low-latency |
+| Audio/Video API | 🎧 Tools to download audio/video from YouTube + Spotify |
+| ClusterPi | 🔌 Raspberry Pi‑based private cloud & stream router |
+| UnrealFPS | 🕹️ FPS shooter for Android built in UE5 |
+| KustBots Infra | 🌐 Distributed infra with cache fallback & nodes |
 
 ---
 
 ## ✨ Achievements
 
-- 🥇 Created an AI-powered system indexing 150M+ media files from trending platforms  
-- 🧊 Designed a distributed music system running 30+ nodes & bots in parallel  
-- 📈 Building a brand (Kust Bots) across platforms with reliability & speed as priority  
-- 🧠 Self-hosted ML pipeline for real-time content tagging and search  
+> "Not all those who wander are lost." — J.R.R. Tolkien  
+> "Magic is simply the art of making the invisible visible." — Terry Pratchett  
 
+- 🥇 Built AI pipeline indexing 150M+ media items  
+- 🔁 Running 30+ bots in parallel with distributed systems  
+- 📈 Fast and reliable systems powering the Kust Bots brand  
+
+---
 
 ## 🧩 Fun Stuff
 
 <details>
-  <summary>🌍 My Command Center</summary>
-  <ul>
-    <li>👾 PC: i5-12400F | RTX 3080 Ti | Linux & WSL2</li>
-    <li>🧠 Cluster: 35 Raspberry Pis + Flask/Redis stack</li>
-    <li>🛰️ CDN: Cloudflare Workers + Vercel + Render</li>
-    <li>⚙️ GitHub Actions for self-updating bots</li>
-    <li>🔐 Ethical hacker & backend debugger</li>
-  </ul>
+  <summary>⚙️ My Setup & Tools</summary>
+  - 👾 PC: i5‑12400F, RTX 3080 Ti, Linux & WSL2  
+  - 🧠 Cluster: 35× Raspberry Pi, Flask & Redis  
+  - 🛰️ CDN: Cloudflare Workers, Vercel, Render  
+  - ⚙️ CI: GitHub Actions for auto‑deploy & updates  
+  - 🔐 Ethical hacking & backend debugging  
 </details>
+
+---
+
+## 👣 Visitor Count & Quotes
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kustbots&label=🔥%20Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
@@ -89,19 +101,9 @@
 
 ---
 
-## 🌙 Theme-Aware SVGs
-
-This README uses SVGs, badges, and banners that respect **light/dark mode**, and supports full responsiveness across devices.
-
----
-
-## 📌 Bonus: GitHub Trophy Wall
+## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kustbots&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kustbots&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophy Wall" />
 </p>
-
----
-
-> 🔄 This README updates automatically using GitHub Actions. Want a similar profile? Fork this and go wild!
 
