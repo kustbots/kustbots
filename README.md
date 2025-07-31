@@ -63,16 +63,6 @@
 - 📈 Building a brand (Kust Bots) across platforms with reliability & speed as priority  
 - 🧠 Self-hosted ML pipeline for real-time content tagging and search  
 
----
-
-## 🎵 Now Playing
-
-<!-- Spotify or YouTube Now Playing Widget -->
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jjabmjvskhnoaytq2tuhxgakxm&width=500" alt="Now playing" />
-</p>
-
----
 
 ## 🧩 Fun Stuff
 
