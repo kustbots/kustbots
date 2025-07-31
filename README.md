@@ -39,7 +39,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kustbots&theme=dark&hide_border=false" alt="streak-stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kustbots&theme=radical" alt="Activity Graph" />
 </p>
 
 ---
