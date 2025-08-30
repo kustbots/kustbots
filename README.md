@@ -21,7 +21,16 @@
 - ⚙️ Creator of [Frozen Music](https://t.me/vcmusiclubot?start=true) — lightning-fast Telegram VC bot  
 - 💡 Focused on optimization, performance & clean code  
 - 🛠️ Currently building a mobile FPS in Unreal Engine 5  
-- 🌐 Also working on a Raspberry Pi cluster, AI scrapers & distributed infra  
+- 🌐 Also working on a Raspberry Pi cluster, AI scrapers & distributed infra
+
+- ## Support My Work
+
+If you find my projects useful, consider donating USDT (Polygon):
+
+[![Donate USDT (Polygon)](https://img.shields.io/badge/Donate-USDT%20Polygon-green.svg)](https://polygonscan.com/address/0xEF60D44fe56784dB798a51224bcde4fd9d4Af18D)
+
+**Wallet Address:** `0xEF60D44fe56784dB798a51224bcde4fd9d4Af18D`
+
 
 ---
 
