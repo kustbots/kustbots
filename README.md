@@ -70,8 +70,8 @@
 <details>
   <summary>🌍 My Command Center</summary>
   <ul>
-    <li>💻 PC: i5-12400F | RTX 3080 Ti | Linux & WSL2</li>
-    <li>🛰️ CDN: Cloudflare Workers + Vercel + Render</li>
+    <li>💻 PC: i5-12400F | RX 9070 XT 16GB | Linux & WSL2</li>
+    <li>🛰️ CDN: Cloudflare Workers + Vercel + Render + AWS + GCP + AZURE</li>
     <li>⚙️ GitHub Actions for auto-updating bots</li>
     <li>🔐 Ethical hacker & backend debugger</li>
   </ul>
