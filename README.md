@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kustbots&show_icons=true&theme=radical&hide=stars" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustbots&layout=donut&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kustbots&show_icons=true&theme=radical&hide=stars&v=1" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustbots&layout=donut&theme=radical&v=1" height="150" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ This README uses SVGs, badges & animated elements that respect light/dark mode a
 ## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kustbots&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kustbots&theme=radical&no-frame=true&no-bg=true&margin-w=10&v=1" />
 </p>
 
 ---
