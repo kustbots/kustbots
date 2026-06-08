@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kustbots&label=Profile%20Views&color=F7971E&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KustBots&label=Profile%20Views&color=F7971E&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kustbots&show_icons=true&theme=radical&hide=stars&v=1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kustbots&layout=donut&theme=radical&v=1" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KustBots&show_icons=true&theme=radical&hide=stars" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KustBots&layout=donut&theme=radical" height="150" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kustbots&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KustBots&theme=radical" />
 </p>
 
 ---
@@ -98,7 +98,7 @@ This README uses SVGs, badges & animated elements that respect light/dark mode a
 ## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kustbots&theme=radical&no-frame=true&no-bg=true&margin-w=10&v=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KustBots&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
